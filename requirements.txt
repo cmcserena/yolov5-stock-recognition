@@ -37,7 +37,7 @@ mplfinance
 # roboflow
 thop  # FLOPs computation
 yfinance
-opencv
+opencv-python
 Models
 models.common
 detect
