@@ -41,3 +41,4 @@ opencv-python
 Models
 models.common
 detect
+base
