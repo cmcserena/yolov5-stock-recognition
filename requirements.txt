@@ -37,3 +37,8 @@ mplfinance
 # roboflow
 thop  # FLOPs computation
 yfinance
+.cv2
+Cv2
+Models
+models.common
+detect
