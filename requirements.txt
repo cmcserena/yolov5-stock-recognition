@@ -38,7 +38,7 @@ mplfinance
 thop  # FLOPs computation
 yfinance
 opencv-python-headless
-Models
+models
 models.common
 detect
 base
