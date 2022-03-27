@@ -29,7 +29,7 @@ step = 100
 # start date = today-100
 start_date = (datetime.date.today() - datetime.timedelta(days = 200)).strftime("%Y-%m-%d")
 # end date = today
-end_date = datetime.date.today().strftime("%Y-%m-%d")
+end_date = (datetime.date.today() + datetime.timedelta(days = 1)).strftime("%Y-%m-%d")
 # save path of all elements
 save_path = os.getcwd()
 
